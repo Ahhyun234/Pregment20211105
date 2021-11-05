@@ -11,7 +11,13 @@
     <fragment
         android:tag="첫번째 프레그먼트"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="250dp"
         class="com.nepplus.pregment20211105.pragments.FirstFragment"/>
+
+    <fragment
+        android:tag="두번째 프레그먼트"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="com.nepplus.pregment20211105.pragments.SecondFragment"/>
 
 </LinearLayout>
